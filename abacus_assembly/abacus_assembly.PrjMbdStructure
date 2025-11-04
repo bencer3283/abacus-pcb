@@ -1,0 +1,4 @@
+Record=DiagramHierarchy|SourceDocument=assembly.MbsDoc|Kind=Multi-board Schematic Module|Designator=M2|Source=..\magnets\abacus_magnets.PrjPcb
+Record=SubProject|SourceDocument=assembly.MbsDoc|ProjectPath=..\magnets\abacus_magnets.PrjPcb
+Record=DiagramHierarchy|SourceDocument=assembly.MbsDoc|Kind=Multi-board Schematic Module|Designator=M1|Source=..\abacus_main\abacus_main.PrjPcb
+Record=SubProject|SourceDocument=assembly.MbsDoc|ProjectPath=..\abacus_main\abacus_main.PrjPcb

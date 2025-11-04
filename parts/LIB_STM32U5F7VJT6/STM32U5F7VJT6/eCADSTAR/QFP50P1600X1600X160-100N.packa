@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "STM32U5F7VJT6"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-01-18-08:11:38)
+    (mountForm default
+        (footprintRef "QFP50P1600X1600X160-100N")
+        (spec "System")
+    )
+)

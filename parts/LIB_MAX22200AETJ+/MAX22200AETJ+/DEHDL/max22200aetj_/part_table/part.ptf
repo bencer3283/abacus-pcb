@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MAX22200AETJ_'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Analog Devices", "MAX22200AETJ+" (!) = "", "QFN50P500X500X80-33N", "Quad Flat No-Lead", "", "", "MAX22200AETJ+", "https://www.arrow.com/en/products/max22200aetj/analog-devices?utm_currency=USD&region=nac", "Motor/Motion/Ignition Controllers & Drivers 36V, 1A Octal Integrated Serial-Controll", "https://www.analog.com/media/en/technical-documentation/data-sheets/MAX22200.pdf", "0.8 mm"
+END_PART
+
+END.

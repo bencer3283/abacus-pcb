@@ -1,0 +1,18 @@
+.MAX22200AETJ-plus- :1 ;Motor/Motion/Ignition Controllers & Drivers 36V, 1A Octal Integrated Serial-Controll
+QFN50P500X500X80-33N
+*STM IC
+*NGS
+*PLB 1="FAULT" 2="CMD" 3="CSB" 4="GND_1" 5="SCK" 6="SDI" 7="SDO" 8="TRIGA" 9="VM_1" 10="OUT4" 11="OUT5" 12="VM_2" 13="VM_3" 14="OUT6" 15="OUT7" 16="VM_4" 17="TRIGB" 18="IREF" 19="GND_2" 20="V18" 21="ENABLE" 22="CFN" 23="CFP" 24="VCP" 25="VM_5" 26="OUT3" 27="OUT2" 28="VM_6" 29="VM_7" 30="OUT1" 31="OUT0" 32="VM_8" 33="GND_3"
+*MXP 33
+*DFN MAX22200AETJ-plus-
+~!Manufacturer_Name (Analog Devices)
+~!Manufacturer_Part_Number (MAX22200AETJ+)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (MAX22200AETJ+)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/max22200aetj/analog-devices?utm_currency=USD&region=nac)
+~!Link Datasheet (https://www.analog.com/media/en/technical-documentation/data-sheets/MAX22200.pdf)
+~!Height (0.8mm)
+~!3D_Model (MAX22200AETJ+)
+MAX22200AETJ-plus-
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 24.1!U 23.1!U 22.1!U 21.1!U 20.1!U 19.1!U 18.1!U 17.1!U 33.1!U 32.1!U 31.1!U 30.1!U 29.1!U 28.1!U 27.1!U 26.1!U 25.1!U 

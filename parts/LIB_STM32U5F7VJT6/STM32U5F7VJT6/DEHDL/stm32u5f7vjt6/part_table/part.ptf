@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'STM32U5F7VJT6'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "STMicroelectronics", "STM32U5F7VJT6" (!) = "", "QFP50P1600X1600X160-100N", "Quad Flat Packages", "511-STM32U5F7VJT6", "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STM32U5F7VJT6?qs=HoCaDK9Nz5e1ZGsW1DPWFA%3D%3D", "STM32U5F7VJT6", "https://www.arrow.com/en/products/stm32u5f7vjt6/stmicroelectronics?region=nac", "Advanced Graphics and Ultra Low Power  CortexM-33 with Trustzone, NEOCHROM VG GPU, 160MHZ, with 3 MBSRAM and 4M of Flash.", "https://www.st.com/resource/en/datasheet/stm32u5f7vj.pdf", "1.6 mm"
+END_PART
+
+END.

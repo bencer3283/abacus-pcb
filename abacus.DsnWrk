@@ -2,3 +2,7 @@
 Version=1.0
 [Project1]
 ProjectPath=abacus_main\abacus_main.PrjPcb
+[Project2]
+ProjectPath=magnets\abacus_magnets.PrjPcb
+[Project3]
+ProjectPath=abacus_assembly\abacus_assembly.PrjMbd

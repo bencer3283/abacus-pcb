@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-05062020-036923";"";
+"REFERENCE";"522711279";"";
+"TraceParts.PartTitle";"Easy-On";"";
+"TraceParts.InstanceId";"90-05062020-0369232N3XX9WWY2MK673V115V3T3RA";"";
+"SUPPLIER";"Molex";"";
+"DESIGN";"Easy-On FFC/FPC Connector, 1.00mm Pitch, Slider Series, Right-Angle, Bottom Contact, 3.00mm Height, 12 Circuits, Tin-Bismuth Plating";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.7";"";

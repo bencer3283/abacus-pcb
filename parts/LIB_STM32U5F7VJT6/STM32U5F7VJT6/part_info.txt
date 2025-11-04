@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=STM32U5F7VJT6
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat Packages
+PinCount=100
+Version=2.1
+Released=2024-01-18 08:11:38
+Downloaded=2025-11-04 01:02:11
+3D=Y

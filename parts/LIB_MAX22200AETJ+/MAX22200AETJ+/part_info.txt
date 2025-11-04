@@ -1,0 +1,9 @@
+Manufacturer=Analog Devices
+PartNumber=MAX22200AETJ+
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat No-Lead
+PinCount=33
+Version=1.1
+Released=2025-10-21 10:32:05
+Downloaded=2025-11-04 01:33:06
+3D=Y
