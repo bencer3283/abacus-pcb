@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'NTA53321G0FHKZ'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "NXP", "NTA53321G0FHKZ" (!) = "", "NTA53321G0FHKZ", "Other", "771-NTA53321G0FHKZ", "https://www.mouser.co.uk/ProductDetail/NXP-Semiconductors/NTA53321G0FHKZ?qs=OlC7AqGiEDk3OpnM8pXHAA%3D%3D", "NTA53321G0FHKZ", "https://www.arrow.com/en/products/nta53321g0fhkz/nxp-semiconductors?region=nac", "Interface - Specialized NTAG", "https://www.mouser.co.il/datasheet/2/302/NTA5332-1815294.pdf", "0.5 mm"
+END_PART
+
+END.

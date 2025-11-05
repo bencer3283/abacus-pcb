@@ -1,0 +1,9 @@
+Manufacturer=NXP
+PartNumber=NTA53321G0FHKZ
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=16
+Version=1.2
+Released=2020-08-12 10:31:16
+Downloaded=2025-11-05 15:32:21
+3D=Y

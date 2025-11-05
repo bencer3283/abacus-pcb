@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NTA53321G0FHKZ
+D Interface - Specialized NTAG
+K
+F https://www.mouser.co.il/datasheet/2/302/NTA5332-1815294.pdf
+$ENDCMP
+#
+#End Doc Library

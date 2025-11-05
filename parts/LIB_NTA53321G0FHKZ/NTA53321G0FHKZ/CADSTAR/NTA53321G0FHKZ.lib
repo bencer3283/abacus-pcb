@@ -1,0 +1,18 @@
+.NTA53321G0FHKZ :1 ;Interface - Specialized NTAG
+NTA53321G0FHKZ
+*STM IC
+*NGS
+*PLB 1="GND_1" 2="GNDTX" 3="VCC,TX" 4="N.C._1" 5="N.C._2" 6="SDA/GPIO1/PWM1" 7="SCL/GPIO0/PWM0" 8="ED/PWM0" 9="VCC" 10="HPD" 11="GND_2" 12="VOUT" 13="LBTX" 14="LB" 15="LA" 16="LATX"
+*MXP 16
+*DFN NTA53321G0FHKZ
+~!Manufacturer_Name (NXP)
+~!Manufacturer_Part_Number (NTA53321G0FHKZ)
+~!Mouser Part Number (771-NTA53321G0FHKZ)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/NXP-Semiconductors/NTA53321G0FHKZ?qs=OlC7AqGiEDk3OpnM8pXHAA%3D%3D)
+~!Arrow Part Number (NTA53321G0FHKZ)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/nta53321g0fhkz/nxp-semiconductors?region=nac)
+~!Link Datasheet (https://www.mouser.co.il/datasheet/2/302/NTA5332-1815294.pdf)
+~!Height (0.5mm)
+~!3D_Model (NTA53321G0FHKZ)
+NTA53321G0FHKZ
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 

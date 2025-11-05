@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "NTA53321G0FHKZ"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "NTA53321G0FHKZ")
+        (spec "default")
+    )
+)
