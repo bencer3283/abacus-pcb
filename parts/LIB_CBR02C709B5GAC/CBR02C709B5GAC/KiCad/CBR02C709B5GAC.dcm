@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CBR02C709B5GAC
+D CBR-SMD RF C0G, Ceramic, 7 pF, +/-0.1 pF, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, Fixed, RF, Ultra High Q, Low ESR, Class I, 0.18 % , 10 GOhms, 540, 0.3 mg, 0201, 0.6mm, 0.3mm, 0.3mm, 0.15mm, 15000, 78  Weeks, 120
+K
+F http://www.kemet.com/Lists/ProductCatalog/Attachments/490/KEM_C1030_CBR_SMD.pdf
+$ENDCMP
+#
+#End Doc Library

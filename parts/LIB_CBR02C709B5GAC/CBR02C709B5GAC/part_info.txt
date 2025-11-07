@@ -1,0 +1,9 @@
+Manufacturer=KEMET
+PartNumber=CBR02C709B5GAC
+PartCategory=Capacitor
+PackageCategory=Capacitor Chip Non-polarised
+PinCount=2
+Version=4.1
+Released=2023-03-07 11:11:02
+Downloaded=2025-11-06 22:26:48
+3D=Y

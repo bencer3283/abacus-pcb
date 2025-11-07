@@ -1,0 +1,18 @@
+.CBR02C709B5GAC :1 ;CBR-SMD RF C0G, Ceramic, 7 pF, +/-0.1 pF, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, Fixed, RF, Ultra High Q, Low ESR, Class I, 0.18 % , 10 GOhms, 540, 0.3 mg, 0201, 0.6mm, 0.3mm, 0.3mm, 0.15mm, 15000, 78  Weeks, 120
+CAPC0603X33N
+*STM C
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN CBR02C709B5GAC
+~!Manufacturer_Name (KEMET)
+~!Manufacturer_Part_Number (CBR02C709B5GAC)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (http://www.kemet.com/Lists/ProductCatalog/Attachments/490/KEM_C1030_CBR_SMD.pdf)
+~!Height (0.33mm)
+~!3D_Model (CBR02C709B5GAC)
+CBR02C709B5GAC
+1.1!U 2.1!U 

@@ -1,0 +1,68 @@
+(Japanese_coding: sjis)
+(function "ECS_1199632"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-03-07-11:11:02)
+    (utime 2023-03-07-11:11:02)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "CBR02C709B5GAC")
+)
+
+
+(pinAssign "ECS_1199632"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-03-07-11:11:02)
+    (utime 2023-03-07-11:11:02)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_1199632")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "CBR02C709B5GAC")
+)
+
+
+(part "CBR02C709B5GAC"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-03-07-11:11:02)
+    (utime 2023-03-07-11:11:02)
+    (packageRef "CBR02C709B5GAC")
+    (pinAssignRef "ECS_1199632")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "C")
+    (property "description" "CBR-SMD RF C0G, Ceramic, 7 pF, +/-0.1 pF, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, Fixed, RF, Ultra High Q, Low ESR, Class I, 0.18 % , 10 GOhms, 540, 0.3 mg, 0201, 0.6mm, 0.3mm, 0.3mm, 0.15mm, 15000, 78  Weeks, 120")
+    (property "Manufacturer_Name" "KEMET")
+    (property "Manufacturer_Part_Number" "CBR02C709B5GAC")
+    (property "Mouser_Part_Number" "")
+    (property "Mouser_Price/Stock" "")
+    (property "Arrow_Part_Number" "")
+    (property "Arrow_Price/Stock" "")
+    (property "Datasheet_Link" "http://www.kemet.com/Lists/ProductCatalog/Attachments/490/KEM_C1030_CBR_SMD.pdf")
+    (property "compAreaTopHeight" 0.33)
+)
+
+
