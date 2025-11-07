@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "A31301EEJASR-XYZ-IC-06"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-09-21-15:44:16)
+    (mountForm default
+        (footprintRef "SON50P300X300X80-11N-D")
+        (spec "System")
+    )
+)

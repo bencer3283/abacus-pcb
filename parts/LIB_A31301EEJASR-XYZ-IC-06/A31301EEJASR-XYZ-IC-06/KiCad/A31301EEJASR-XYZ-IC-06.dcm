@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP A31301EEJASR-XYZ-IC-06
+D 3D Linear Hall-Effect Sensor with SPI, I2C Interfaces, and Advanced Low-Power Management
+K
+F https://www.allegromicro.com/en/
+$ENDCMP
+#
+#End Doc Library

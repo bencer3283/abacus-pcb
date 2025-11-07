@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'A31301EEJASR_XYZ_IC_06'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Allegro Microsystems", "A31301EEJASR-XYZ-IC-06" (!) = "", "SON50P300X300X80-11N-D", "Small Outline No-lead", "250-A31301EEJASRIC06", "https://www.mouser.co.uk/ProductDetail/Allegro-MicroSystems/A31301EEJASR-XYZ-IC-06?qs=ST9lo4GX8V09bDUIBZAaKw%3D%3D", "A31301EEJASR-XYZ-IC-06", "https://www.arrow.com/en/products/a31301eejasr-xyz-ic-06/allegro-microsystems?utm_currency=USD&region=nac", "3D Linear Hall-Effect Sensor with SPI, I2C Interfaces, and Advanced Low-Power Management", "https://www.allegromicro.com/en/", "0.8 mm"
+END_PART
+
+END.

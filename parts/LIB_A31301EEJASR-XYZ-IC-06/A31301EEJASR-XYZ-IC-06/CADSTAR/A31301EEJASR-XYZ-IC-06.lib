@@ -1,0 +1,18 @@
+.A31301EEJASR-XYZ-IC-06 :1 ;3D Linear Hall-Effect Sensor with SPI, I2C Interfaces, and Advanced Low-Power Management
+SON50P300X300X80-11N-D
+*STM IC
+*NGS
+*PLB 1="VCC" 2="CSN/SA0" 3="GND" 4="INT/SAMPLE" 5="NC_1" 6="MISO/SA1" 7="MOSI/SDA" 8="SCLK/SCL" 9="VCC_IO" 10="NC_2" 11="EP (GND)"
+*MXP 11
+*DFN A31301EEJASR-XYZ-IC-06
+~!Manufacturer_Name (Allegro Microsystems)
+~!Manufacturer_Part_Number (A31301EEJASR-XYZ-IC-06)
+~!Mouser Part Number (250-A31301EEJASRIC06)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Allegro-MicroSystems/A31301EEJASR-XYZ-IC-06?qs=ST9lo4GX8V09bDUIBZAaKw%3D%3D)
+~!Arrow Part Number (A31301EEJASR-XYZ-IC-06)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/a31301eejasr-xyz-ic-06/allegro-microsystems?utm_currency=USD&region=nac)
+~!Link Datasheet (https://www.allegromicro.com/en/)
+~!Height (0.8mm)
+~!3D_Model (A31301EEJASR-XYZ-IC-06)
+A31301EEJASR-XYZ-IC-06
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 11.1!U 10.1!U 9.1!U 8.1!U 7.1!U 6.1!U 
