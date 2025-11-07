@@ -86,6 +86,8 @@ VaultGUID=
 ManagedProjectGUID=
 RevisionGUID=
 ProjectName=abacus_main.PrjPcb
+VaultURL=
+VaultName=
 
 [Document3]
 DocumentPath=..\magnets\abacus_magnets.PrjPcb
@@ -107,6 +109,8 @@ VaultGUID=
 ManagedProjectGUID=
 RevisionGUID=
 ProjectName=abacus_magnets.PrjPcb
+VaultURL=
+VaultName=
 
 [OutputGroup1]
 Name=Netlist Outputs
