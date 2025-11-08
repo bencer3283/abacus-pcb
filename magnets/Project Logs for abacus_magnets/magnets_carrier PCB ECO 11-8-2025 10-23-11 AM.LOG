@@ -1,0 +1,54 @@
+Added Component: Designator=J0(CON_522711279_MOL)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Molex Connector Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "522711279"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "System"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=J1(TWO_PIN)
+Added Component: Designator=J2(TWO_PIN)
+Added Component: Designator=J3(TWO_PIN)
+Added Component: Designator=J4(TWO_PIN)
+Added Component: Designator=J5(TWO_PIN)
+Added Component: Designator=J6(TWO_PIN)
+Added Pin To Net: NetName=GND Pin=J0-P1
+Added Pin To Net: NetName=GND Pin=J0-P2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetJ0_1 Pin=J0-1
+Added Pin To Net: NetName=NetJ0_1 Pin=J6-1
+Added Net: Name=NetJ0_1
+Added Pin To Net: NetName=NetJ0_2 Pin=J0-2
+Added Pin To Net: NetName=NetJ0_2 Pin=J6-2
+Added Net: Name=NetJ0_2
+Added Pin To Net: NetName=NetJ0_3 Pin=J0-3
+Added Pin To Net: NetName=NetJ0_3 Pin=J5-1
+Added Net: Name=NetJ0_3
+Added Pin To Net: NetName=NetJ0_4 Pin=J0-4
+Added Pin To Net: NetName=NetJ0_4 Pin=J5-2
+Added Net: Name=NetJ0_4
+Added Pin To Net: NetName=NetJ0_5 Pin=J0-5
+Added Pin To Net: NetName=NetJ0_5 Pin=J4-1
+Added Net: Name=NetJ0_5
+Added Pin To Net: NetName=NetJ0_6 Pin=J0-6
+Added Pin To Net: NetName=NetJ0_6 Pin=J4-2
+Added Net: Name=NetJ0_6
+Added Pin To Net: NetName=NetJ0_7 Pin=J0-7
+Added Pin To Net: NetName=NetJ0_7 Pin=J3-1
+Added Net: Name=NetJ0_7
+Added Pin To Net: NetName=NetJ0_8 Pin=J0-8
+Added Pin To Net: NetName=NetJ0_8 Pin=J3-2
+Added Net: Name=NetJ0_8
+Added Pin To Net: NetName=NetJ0_9 Pin=J0-9
+Added Pin To Net: NetName=NetJ0_9 Pin=J2-1
+Added Net: Name=NetJ0_9
+Added Pin To Net: NetName=NetJ0_10 Pin=J0-10
+Added Pin To Net: NetName=NetJ0_10 Pin=J2-2
+Added Net: Name=NetJ0_10
+Added Pin To Net: NetName=NetJ0_11 Pin=J0-11
+Added Pin To Net: NetName=NetJ0_11 Pin=J1-1
+Added Net: Name=NetJ0_11
+Added Pin To Net: NetName=NetJ0_12 Pin=J0-12
+Added Pin To Net: NetName=NetJ0_12 Pin=J1-2
+Added Net: Name=NetJ0_12
+Added Class: Name=magnets
+Added Rule: Name=Schematic Supply Nets
