@@ -112,6 +112,23 @@ ProjectName=abacus_magnets.PrjPcb
 VaultURL=
 VaultName=
 
+[Document4]
+DocumentPath=assembly.MbaDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=6851298c-e004-4ac6-984f-d3fdc2020bcc
+
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
