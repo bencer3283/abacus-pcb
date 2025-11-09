@@ -1,0 +1,1274 @@
+Added Component: Designator=A0(NFCANT)
+Added Component: Designator=C0(WCAP-ASLI_D4H5.5)
+Add component (AddParameter): Name = "Capacitance"; Value = "10µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Aluminum Electrolytic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/865080340001?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/865080340001?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dissipation Factor"; Value = "16%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Endurance"; Value = "2000h"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "2200mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Leakage Current"; Value = "3µA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "865080340001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WCAP-ASLI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage (DC)"; Value = "16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = "80mA"; VariantName = "[No Variations]"
+Added Component: Designator=C1(CAP_CC0201_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAP_CC0201_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAP_CC0201_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0201MRX5R5BB105"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAP_CC0201_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0201KRX5R7BB223"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAP_CC0201_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0201MRX5R5BB225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAP_CC0201_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAP_CC0201_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAP_CC0201_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C9(CAP_CC0201_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C10(CAP_CC0201_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0201MRX5R5BB105"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C11(CAP_CC0201_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0201KRX5R7BB223"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C12(CAP_CC0201_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0201MRX5R5BB225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C13(CAP_CC0201_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C14(CAP_CC0201_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C15(WCAP-ASLI_D4H5.5)
+Add component (AddParameter): Name = "Capacitance"; Value = "10µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Aluminum Electrolytic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/865080340001?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/865080340001?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dissipation Factor"; Value = "16%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Endurance"; Value = "2000h"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "2200mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Leakage Current"; Value = "3µA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "865080340001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WCAP-ASLI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage (DC)"; Value = "16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = "80mA"; VariantName = "[No Variations]"
+Added Component: Designator=C16(CAPC17595_87N_KEM)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://content.kemet.com/datasheets/KEM_C1003_C0G_SMD.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C0603C911F5GACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C17(CAPC1608X95N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C0603X132F4HAC7867/KEMET/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C0603X132F4HACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C0603X132F4HAC7867"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1608 KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C0603X132F4HAC7867/KEMET/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C18(CAPC17595_87N_KEM)
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0603JRNPO9BN501"; VariantName = "[No Variations]"
+Added Component: Designator=C19(CAPC1608X95N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C0603X132F4HAC7867/KEMET/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C0603X132F4HACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C0603X132F4HAC7867"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1608 KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C0603X132F4HAC7867/KEMET/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C20(CAPC17595_87N_KEM)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://content.kemet.com/datasheets/KEM_C1003_C0G_SMD.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C0603C911F5GACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C21(CAP_CC0201_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "CC0201KRX5R7BB104.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C22(CAP_CC0201_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "CC0201KRX5R7BB104.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C23(CAP_CC0201_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "CC0201KRX5R7BB104.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C24(CAPC0603X33N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.kemet.com/Lists/ProductCatalog/Attachments/490/KEM_C1030_CBR_SMD.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.33mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CBR02C709B5GAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C25(CAPC0603X33N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.kemet.com/Lists/ProductCatalog/Attachments/490/KEM_C1030_CBR_SMD.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.33mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CBR02C709B5GAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C26(CAPC17595_87N_KEM)
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C0603C475K8PACTU"; VariantName = "[No Variations]"
+Added Component: Designator=C27(CAP_CC0201_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "CC0201KRX5R7BB104.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C28(CAP_CC0201_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "CC0201MRX5R5BB105"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0201MRX5R5BB105"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "CC0201MRX5R5BB105.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C29(CAP_CC0201_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "CC0201KRX5R7BB104.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C30(CAP_CC0201_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "CC0201KRX5R7BB104.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C31(CAPC17595_87N_KEM)
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0603KRX5R5BB106"; VariantName = "[No Variations]"
+Added Component: Designator=C32(CAP_CC0201_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "CC0201KRX5R7BB104.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C33(CAP_CC0201_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "CC0201KRX5R7BB104.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C34(CAP_CC0201_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "CC0201KRX5R7BB104.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C35(CAP_CC0201_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "CC0201KRX5R7BB104.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C36_M1(CAP_CC0201_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "CC0201KRX5R7BB104.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C36_M2(CAP_CC0201_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "CC0201KRX5R7BB104.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C36_M3(CAP_CC0201_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "CC0201KRX5R7BB104.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C36_M4(CAP_CC0201_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "CC0201KRX5R7BB104.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C36_M5(CAP_CC0201_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "CC0201KRX5R7BB104.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C36_M6(CAP_CC0201_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "CC0201KRX5R7BB104.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C36_M7(CAP_CC0201_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "CC0201KRX5R7BB104.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C36_M8(CAP_CC0201_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "CC0201KRX5R7BB104.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C36_M9(CAP_CC0201_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "CC0201KRX5R7BB104.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C36_M10(CAP_CC0201_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "CC0201KRX5R7BB104.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C36_M11(CAP_CC0201_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "CC0201KRX5R7BB104.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C36_M12(CAP_CC0201_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "CC0201KRX5R7BB104.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C37_M1(CAP_CC0201_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "CC0201KRX5R7BB104.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C37_M2(CAP_CC0201_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "CC0201KRX5R7BB104.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C37_M3(CAP_CC0201_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "CC0201KRX5R7BB104.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C37_M4(CAP_CC0201_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "CC0201KRX5R7BB104.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C37_M5(CAP_CC0201_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "CC0201KRX5R7BB104.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C37_M6(CAP_CC0201_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "CC0201KRX5R7BB104.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C37_M7(CAP_CC0201_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "CC0201KRX5R7BB104.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C37_M8(CAP_CC0201_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "CC0201KRX5R7BB104.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C37_M9(CAP_CC0201_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "CC0201KRX5R7BB104.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C37_M10(CAP_CC0201_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "CC0201KRX5R7BB104.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C37_M11(CAP_CC0201_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "CC0201KRX5R7BB104.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C37_M12(CAP_CC0201_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "CC0201KRX5R7BB104.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C38(CAP_CC0201_YAG)
+Add component (AddParameter): Name = "Capacitor Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "CC0201KRX5R7BB104.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C39(CAP_CC0201_YAG)
+Add component (AddParameter): Name = "Capacitor Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0201KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "CC0201KRX5R7BB104.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J0(CON_522711279_MOL)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Molex Connector Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "522711279"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "System"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=J1(009159010061911)
+Added Component: Designator=J2(TWO_PIN)
+Added Component: Designator=J3(TWO_PIN)
+Added Component: Designator=R1(RC0603N_PAN)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERA-3AEB153V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R2(RC0603N_PAN)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERA-3AEB153V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R3(RC0603N_PAN)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RT0603DRE071R1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R4(RC0603N_PAN)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RT0603DRE071R1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R5(RC0603N_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RT0603BRD07330KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R6(RC0603N_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RT0603BRE07673KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R7(RC0603N_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RT0603BRE07673KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R8(RC0603N_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RT0603BRD07330KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R9(RC0603N_PAN)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0201FR-1310KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R10(RC0603N_PAN)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0201FR-1310KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U0(QFP50P1600X1600X160-100N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "STM32U5F7VJT6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/stm32u5f7vjt6/stmicroelectronics?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.st.com/resource/en/datasheet/stm32u5f7vj.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STM32U5F7VJT6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "511-STM32U5F7VJT6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STM32U5F7VJT6?qs=HoCaDK9Nz5e1ZGsW1DPWFA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=U1(QFN50P500X500X80-33N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "MAX22200AETJ+"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/max22200aetj/analog-devices?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/media/en/technical-documentation/data-sheets/MAX22200.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MAX22200AETJ+"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U2(QFN50P500X500X80-33N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "MAX22200AETJ+"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/max22200aetj/analog-devices?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/media/en/technical-documentation/data-sheets/MAX22200.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MAX22200AETJ+"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U3(NTA53321G0FHKZ)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "NTA53321G0FHKZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/nta53321g0fhkz/nxp-semiconductors?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.co.il/datasheet/2/302/NTA5332-1815294.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "NXP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "NTA53321G0FHKZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "771-NTA53321G0FHKZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/NXP-Semiconductors/NTA53321G0FHKZ?qs=OlC7AqGiEDk3OpnM8pXHAA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=U4(RGY14_2P05X2P05)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SN74LVC32ARGYR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=U5(RGY14_2P05X2P05)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SN74LVC32ARGYR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=U6(RGY14_2P05X2P05)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SN74LVC32ARGYR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=U7_M1(SON50P300X300X80-11N-D)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "A31301EEJASR-XYZ-IC-06"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/a31301eejasr-xyz-ic-06/allegro-microsystems?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.allegromicro.com/en/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Allegro Microsystems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "A31301EEJASR-XYZ-IC-06"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "250-A31301EEJASRIC06"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Allegro-MicroSystems/A31301EEJASR-XYZ-IC-06?qs=ST9lo4GX8V09bDUIBZAaKw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=U7_M2(SON50P300X300X80-11N-D)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "A31301EEJASR-XYZ-IC-06"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/a31301eejasr-xyz-ic-06/allegro-microsystems?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.allegromicro.com/en/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Allegro Microsystems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "A31301EEJASR-XYZ-IC-06"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "250-A31301EEJASRIC06"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Allegro-MicroSystems/A31301EEJASR-XYZ-IC-06?qs=ST9lo4GX8V09bDUIBZAaKw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=U7_M3(SON50P300X300X80-11N-D)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "A31301EEJASR-XYZ-IC-06"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/a31301eejasr-xyz-ic-06/allegro-microsystems?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.allegromicro.com/en/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Allegro Microsystems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "A31301EEJASR-XYZ-IC-06"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "250-A31301EEJASRIC06"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Allegro-MicroSystems/A31301EEJASR-XYZ-IC-06?qs=ST9lo4GX8V09bDUIBZAaKw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=U7_M4(SON50P300X300X80-11N-D)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "A31301EEJASR-XYZ-IC-06"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/a31301eejasr-xyz-ic-06/allegro-microsystems?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.allegromicro.com/en/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Allegro Microsystems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "A31301EEJASR-XYZ-IC-06"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "250-A31301EEJASRIC06"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Allegro-MicroSystems/A31301EEJASR-XYZ-IC-06?qs=ST9lo4GX8V09bDUIBZAaKw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=U7_M5(SON50P300X300X80-11N-D)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "A31301EEJASR-XYZ-IC-06"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/a31301eejasr-xyz-ic-06/allegro-microsystems?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.allegromicro.com/en/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Allegro Microsystems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "A31301EEJASR-XYZ-IC-06"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "250-A31301EEJASRIC06"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Allegro-MicroSystems/A31301EEJASR-XYZ-IC-06?qs=ST9lo4GX8V09bDUIBZAaKw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=U7_M6(SON50P300X300X80-11N-D)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "A31301EEJASR-XYZ-IC-06"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/a31301eejasr-xyz-ic-06/allegro-microsystems?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.allegromicro.com/en/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Allegro Microsystems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "A31301EEJASR-XYZ-IC-06"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "250-A31301EEJASRIC06"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Allegro-MicroSystems/A31301EEJASR-XYZ-IC-06?qs=ST9lo4GX8V09bDUIBZAaKw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=U7_M7(SON50P300X300X80-11N-D)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "A31301EEJASR-XYZ-IC-06"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/a31301eejasr-xyz-ic-06/allegro-microsystems?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.allegromicro.com/en/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Allegro Microsystems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "A31301EEJASR-XYZ-IC-06"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "250-A31301EEJASRIC06"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Allegro-MicroSystems/A31301EEJASR-XYZ-IC-06?qs=ST9lo4GX8V09bDUIBZAaKw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=U7_M8(SON50P300X300X80-11N-D)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "A31301EEJASR-XYZ-IC-06"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/a31301eejasr-xyz-ic-06/allegro-microsystems?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.allegromicro.com/en/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Allegro Microsystems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "A31301EEJASR-XYZ-IC-06"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "250-A31301EEJASRIC06"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Allegro-MicroSystems/A31301EEJASR-XYZ-IC-06?qs=ST9lo4GX8V09bDUIBZAaKw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=U7_M9(SON50P300X300X80-11N-D)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "A31301EEJASR-XYZ-IC-06"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/a31301eejasr-xyz-ic-06/allegro-microsystems?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.allegromicro.com/en/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Allegro Microsystems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "A31301EEJASR-XYZ-IC-06"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "250-A31301EEJASRIC06"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Allegro-MicroSystems/A31301EEJASR-XYZ-IC-06?qs=ST9lo4GX8V09bDUIBZAaKw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=U7_M10(SON50P300X300X80-11N-D)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "A31301EEJASR-XYZ-IC-06"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/a31301eejasr-xyz-ic-06/allegro-microsystems?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.allegromicro.com/en/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Allegro Microsystems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "A31301EEJASR-XYZ-IC-06"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "250-A31301EEJASRIC06"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Allegro-MicroSystems/A31301EEJASR-XYZ-IC-06?qs=ST9lo4GX8V09bDUIBZAaKw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=U7_M11(SON50P300X300X80-11N-D)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "A31301EEJASR-XYZ-IC-06"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/a31301eejasr-xyz-ic-06/allegro-microsystems?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.allegromicro.com/en/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Allegro Microsystems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "A31301EEJASR-XYZ-IC-06"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "250-A31301EEJASRIC06"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Allegro-MicroSystems/A31301EEJASR-XYZ-IC-06?qs=ST9lo4GX8V09bDUIBZAaKw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=U7_M12(SON50P300X300X80-11N-D)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "A31301EEJASR-XYZ-IC-06"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/a31301eejasr-xyz-ic-06/allegro-microsystems?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.allegromicro.com/en/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Allegro Microsystems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "A31301EEJASR-XYZ-IC-06"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "250-A31301EEJASRIC06"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Allegro-MicroSystems/A31301EEJASR-XYZ-IC-06?qs=ST9lo4GX8V09bDUIBZAaKw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=X1(ECS-480-7-33B2-CKM-TR3)
+Added Pin To Net: NetName=1V1 Pin=R6-2
+Added Pin To Net: NetName=1V1 Pin=R8-1
+Added Pin To Net: NetName=1V1 Pin=U7_M2-6
+Added Pin To Net: NetName=1V1 Pin=U7_M5-2
+Added Pin To Net: NetName=1V1 Pin=U7_M6-2
+Added Pin To Net: NetName=1V1 Pin=U7_M6-6
+Added Pin To Net: NetName=1V1 Pin=U7_M7-2
+Added Pin To Net: NetName=1V1 Pin=U7_M8-2
+Added Pin To Net: NetName=1V1 Pin=U7_M10-6
+Added Net: Name=1V1
+Added Pin To Net: NetName=2V2 Pin=R5-2
+Added Pin To Net: NetName=2V2 Pin=R7-1
+Added Pin To Net: NetName=2V2 Pin=U7_M3-6
+Added Pin To Net: NetName=2V2 Pin=U7_M7-6
+Added Pin To Net: NetName=2V2 Pin=U7_M9-2
+Added Pin To Net: NetName=2V2 Pin=U7_M10-2
+Added Pin To Net: NetName=2V2 Pin=U7_M11-2
+Added Pin To Net: NetName=2V2 Pin=U7_M11-6
+Added Pin To Net: NetName=2V2 Pin=U7_M12-2
+Added Net: Name=2V2
+Added Pin To Net: NetName=3V3 Pin=C22-2
+Added Pin To Net: NetName=3V3 Pin=C23-1
+Added Pin To Net: NetName=3V3 Pin=C27-2
+Added Pin To Net: NetName=3V3 Pin=C28-2
+Added Pin To Net: NetName=3V3 Pin=C29-2
+Added Pin To Net: NetName=3V3 Pin=C30-2
+Added Pin To Net: NetName=3V3 Pin=C31-2
+Added Pin To Net: NetName=3V3 Pin=C32-2
+Added Pin To Net: NetName=3V3 Pin=C33-2
+Added Pin To Net: NetName=3V3 Pin=C34-2
+Added Pin To Net: NetName=3V3 Pin=C35-2
+Added Pin To Net: NetName=3V3 Pin=C36_M1-2
+Added Pin To Net: NetName=3V3 Pin=C36_M2-2
+Added Pin To Net: NetName=3V3 Pin=C36_M3-2
+Added Pin To Net: NetName=3V3 Pin=C36_M4-2
+Added Pin To Net: NetName=3V3 Pin=C36_M5-2
+Added Pin To Net: NetName=3V3 Pin=C36_M6-2
+Added Pin To Net: NetName=3V3 Pin=C36_M7-2
+Added Pin To Net: NetName=3V3 Pin=C36_M8-2
+Added Pin To Net: NetName=3V3 Pin=C36_M9-2
+Added Pin To Net: NetName=3V3 Pin=C36_M10-2
+Added Pin To Net: NetName=3V3 Pin=C36_M11-2
+Added Pin To Net: NetName=3V3 Pin=C36_M12-2
+Added Pin To Net: NetName=3V3 Pin=C37_M1-2
+Added Pin To Net: NetName=3V3 Pin=C37_M2-2
+Added Pin To Net: NetName=3V3 Pin=C37_M3-2
+Added Pin To Net: NetName=3V3 Pin=C37_M4-2
+Added Pin To Net: NetName=3V3 Pin=C37_M5-2
+Added Pin To Net: NetName=3V3 Pin=C37_M6-2
+Added Pin To Net: NetName=3V3 Pin=C37_M7-2
+Added Pin To Net: NetName=3V3 Pin=C37_M8-2
+Added Pin To Net: NetName=3V3 Pin=C37_M9-2
+Added Pin To Net: NetName=3V3 Pin=C37_M10-2
+Added Pin To Net: NetName=3V3 Pin=C37_M11-2
+Added Pin To Net: NetName=3V3 Pin=C37_M12-2
+Added Pin To Net: NetName=3V3 Pin=C38-1
+Added Pin To Net: NetName=3V3 Pin=C39-1
+Added Pin To Net: NetName=3V3 Pin=J1-10
+Added Pin To Net: NetName=3V3 Pin=R5-1
+Added Pin To Net: NetName=3V3 Pin=R6-1
+Added Pin To Net: NetName=3V3 Pin=R9-1
+Added Pin To Net: NetName=3V3 Pin=R10-2
+Added Pin To Net: NetName=3V3 Pin=U0-6
+Added Pin To Net: NetName=3V3 Pin=U0-11
+Added Pin To Net: NetName=3V3 Pin=U0-22
+Added Pin To Net: NetName=3V3 Pin=U0-28
+Added Pin To Net: NetName=3V3 Pin=U0-50
+Added Pin To Net: NetName=3V3 Pin=U0-73
+Added Pin To Net: NetName=3V3 Pin=U0-75
+Added Pin To Net: NetName=3V3 Pin=U0-100
+Added Pin To Net: NetName=3V3 Pin=U3-3
+Added Pin To Net: NetName=3V3 Pin=U3-9
+Added Pin To Net: NetName=3V3 Pin=U4-14
+Added Pin To Net: NetName=3V3 Pin=U5-14
+Added Pin To Net: NetName=3V3 Pin=U7_M1-1
+Added Pin To Net: NetName=3V3 Pin=U7_M1-9
+Added Pin To Net: NetName=3V3 Pin=U7_M2-1
+Added Pin To Net: NetName=3V3 Pin=U7_M2-9
+Added Pin To Net: NetName=3V3 Pin=U7_M3-1
+Added Pin To Net: NetName=3V3 Pin=U7_M3-9
+Added Pin To Net: NetName=3V3 Pin=U7_M4-1
+Added Pin To Net: NetName=3V3 Pin=U7_M4-6
+Added Pin To Net: NetName=3V3 Pin=U7_M4-9
+Added Pin To Net: NetName=3V3 Pin=U7_M5-1
+Added Pin To Net: NetName=3V3 Pin=U7_M5-9
+Added Pin To Net: NetName=3V3 Pin=U7_M6-1
+Added Pin To Net: NetName=3V3 Pin=U7_M6-9
+Added Pin To Net: NetName=3V3 Pin=U7_M7-1
+Added Pin To Net: NetName=3V3 Pin=U7_M7-9
+Added Pin To Net: NetName=3V3 Pin=U7_M8-1
+Added Pin To Net: NetName=3V3 Pin=U7_M8-6
+Added Pin To Net: NetName=3V3 Pin=U7_M8-9
+Added Pin To Net: NetName=3V3 Pin=U7_M9-1
+Added Pin To Net: NetName=3V3 Pin=U7_M9-9
+Added Pin To Net: NetName=3V3 Pin=U7_M10-1
+Added Pin To Net: NetName=3V3 Pin=U7_M10-9
+Added Pin To Net: NetName=3V3 Pin=U7_M11-1
+Added Pin To Net: NetName=3V3 Pin=U7_M11-9
+Added Pin To Net: NetName=3V3 Pin=U7_M12-1
+Added Pin To Net: NetName=3V3 Pin=U7_M12-6
+Added Pin To Net: NetName=3V3 Pin=U7_M12-9
+Added Net: Name=3V3
+Added Pin To Net: NetName=7V5 Pin=C0-1
+Added Pin To Net: NetName=7V5 Pin=C1-2
+Added Pin To Net: NetName=7V5 Pin=C2-2
+Added Pin To Net: NetName=7V5 Pin=C6-2
+Added Pin To Net: NetName=7V5 Pin=C7-2
+Added Pin To Net: NetName=7V5 Pin=C8-2
+Added Pin To Net: NetName=7V5 Pin=C9-2
+Added Pin To Net: NetName=7V5 Pin=C13-2
+Added Pin To Net: NetName=7V5 Pin=C14-2
+Added Pin To Net: NetName=7V5 Pin=C15-1
+Added Pin To Net: NetName=7V5 Pin=U1-9
+Added Pin To Net: NetName=7V5 Pin=U1-12
+Added Pin To Net: NetName=7V5 Pin=U1-13
+Added Pin To Net: NetName=7V5 Pin=U1-16
+Added Pin To Net: NetName=7V5 Pin=U1-25
+Added Pin To Net: NetName=7V5 Pin=U1-28
+Added Pin To Net: NetName=7V5 Pin=U1-29
+Added Pin To Net: NetName=7V5 Pin=U1-32
+Added Pin To Net: NetName=7V5 Pin=U2-9
+Added Pin To Net: NetName=7V5 Pin=U2-12
+Added Pin To Net: NetName=7V5 Pin=U2-13
+Added Pin To Net: NetName=7V5 Pin=U2-16
+Added Pin To Net: NetName=7V5 Pin=U2-25
+Added Pin To Net: NetName=7V5 Pin=U2-28
+Added Pin To Net: NetName=7V5 Pin=U2-29
+Added Pin To Net: NetName=7V5 Pin=U2-32
+Added Net: Name=7V5
+Added Pin To Net: NetName=CS1 Pin=U0-33
+Added Pin To Net: NetName=CS1 Pin=U1-3
+Added Net: Name=CS1
+Added Pin To Net: NetName=CS2 Pin=U0-63
+Added Pin To Net: NetName=CS2 Pin=U2-3
+Added Net: Name=CS2
+Added Pin To Net: NetName=EN1 Pin=U0-34
+Added Pin To Net: NetName=EN1 Pin=U1-21
+Added Net: Name=EN1
+Added Pin To Net: NetName=EN2 Pin=U0-65
+Added Pin To Net: NetName=EN2 Pin=U2-21
+Added Net: Name=EN2
+Added Pin To Net: NetName=GND Pin=C0-2
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=GND Pin=C23-2
+Added Pin To Net: NetName=GND Pin=C24-1
+Added Pin To Net: NetName=GND Pin=C25-2
+Added Pin To Net: NetName=GND Pin=C26-1
+Added Pin To Net: NetName=GND Pin=C27-1
+Added Pin To Net: NetName=GND Pin=C28-1
+Added Pin To Net: NetName=GND Pin=C29-1
+Added Pin To Net: NetName=GND Pin=C30-1
+Added Pin To Net: NetName=GND Pin=C31-1
+Added Pin To Net: NetName=GND Pin=C32-1
+Added Pin To Net: NetName=GND Pin=C33-1
+Added Pin To Net: NetName=GND Pin=C34-1
+Added Pin To Net: NetName=GND Pin=C35-1
+Added Pin To Net: NetName=GND Pin=C36_M1-1
+Added Pin To Net: NetName=GND Pin=C36_M2-1
+Added Pin To Net: NetName=GND Pin=C36_M3-1
+Added Pin To Net: NetName=GND Pin=C36_M4-1
+Added Pin To Net: NetName=GND Pin=C36_M5-1
+Added Pin To Net: NetName=GND Pin=C36_M6-1
+Added Pin To Net: NetName=GND Pin=C36_M7-1
+Added Pin To Net: NetName=GND Pin=C36_M8-1
+Added Pin To Net: NetName=GND Pin=C36_M9-1
+Added Pin To Net: NetName=GND Pin=C36_M10-1
+Added Pin To Net: NetName=GND Pin=C36_M11-1
+Added Pin To Net: NetName=GND Pin=C36_M12-1
+Added Pin To Net: NetName=GND Pin=C37_M1-1
+Added Pin To Net: NetName=GND Pin=C37_M2-1
+Added Pin To Net: NetName=GND Pin=C37_M3-1
+Added Pin To Net: NetName=GND Pin=C37_M4-1
+Added Pin To Net: NetName=GND Pin=C37_M5-1
+Added Pin To Net: NetName=GND Pin=C37_M6-1
+Added Pin To Net: NetName=GND Pin=C37_M7-1
+Added Pin To Net: NetName=GND Pin=C37_M8-1
+Added Pin To Net: NetName=GND Pin=C37_M9-1
+Added Pin To Net: NetName=GND Pin=C37_M10-1
+Added Pin To Net: NetName=GND Pin=C37_M11-1
+Added Pin To Net: NetName=GND Pin=C37_M12-1
+Added Pin To Net: NetName=GND Pin=C38-2
+Added Pin To Net: NetName=GND Pin=C39-2
+Added Pin To Net: NetName=GND Pin=J1-6
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R8-2
+Added Pin To Net: NetName=GND Pin=U0-10
+Added Pin To Net: NetName=GND Pin=U0-19
+Added Pin To Net: NetName=GND Pin=U0-20
+Added Pin To Net: NetName=GND Pin=U0-27
+Added Pin To Net: NetName=GND Pin=U0-49
+Added Pin To Net: NetName=GND Pin=U0-74
+Added Pin To Net: NetName=GND Pin=U0-99
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-19
+Added Pin To Net: NetName=GND Pin=U1-33
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Pin To Net: NetName=GND Pin=U2-19
+Added Pin To Net: NetName=GND Pin=U2-33
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U3-11
+Added Pin To Net: NetName=GND Pin=U4-7
+Added Pin To Net: NetName=GND Pin=U4-15
+Added Pin To Net: NetName=GND Pin=U5-7
+Added Pin To Net: NetName=GND Pin=U5-12
+Added Pin To Net: NetName=GND Pin=U5-13
+Added Pin To Net: NetName=GND Pin=U5-15
+Added Pin To Net: NetName=GND Pin=U7_M1-2
+Added Pin To Net: NetName=GND Pin=U7_M1-3
+Added Pin To Net: NetName=GND Pin=U7_M1-6
+Added Pin To Net: NetName=GND Pin=U7_M1-11
+Added Pin To Net: NetName=GND Pin=U7_M2-2
+Added Pin To Net: NetName=GND Pin=U7_M2-3
+Added Pin To Net: NetName=GND Pin=U7_M2-11
+Added Pin To Net: NetName=GND Pin=U7_M3-2
+Added Pin To Net: NetName=GND Pin=U7_M3-3
+Added Pin To Net: NetName=GND Pin=U7_M3-11
+Added Pin To Net: NetName=GND Pin=U7_M4-2
+Added Pin To Net: NetName=GND Pin=U7_M4-3
+Added Pin To Net: NetName=GND Pin=U7_M4-11
+Added Pin To Net: NetName=GND Pin=U7_M5-3
+Added Pin To Net: NetName=GND Pin=U7_M5-6
+Added Pin To Net: NetName=GND Pin=U7_M5-11
+Added Pin To Net: NetName=GND Pin=U7_M6-3
+Added Pin To Net: NetName=GND Pin=U7_M6-11
+Added Pin To Net: NetName=GND Pin=U7_M7-3
+Added Pin To Net: NetName=GND Pin=U7_M7-11
+Added Pin To Net: NetName=GND Pin=U7_M8-3
+Added Pin To Net: NetName=GND Pin=U7_M8-11
+Added Pin To Net: NetName=GND Pin=U7_M9-3
+Added Pin To Net: NetName=GND Pin=U7_M9-6
+Added Pin To Net: NetName=GND Pin=U7_M9-11
+Added Pin To Net: NetName=GND Pin=U7_M10-3
+Added Pin To Net: NetName=GND Pin=U7_M10-11
+Added Pin To Net: NetName=GND Pin=U7_M11-3
+Added Pin To Net: NetName=GND Pin=U7_M11-11
+Added Pin To Net: NetName=GND Pin=U7_M12-3
+Added Pin To Net: NetName=GND Pin=U7_M12-11
+Added Pin To Net: NetName=GND Pin=X1-2
+Added Pin To Net: NetName=GND Pin=X1-4
+Added Net: Name=GND
+Added Pin To Net: NetName=INT_HALL Pin=U0-88
+Added Pin To Net: NetName=INT_HALL Pin=U5-8
+Added Net: Name=INT_HALL
+Added Pin To Net: NetName=LA Pin=C17-1
+Added Pin To Net: NetName=LA Pin=C18-2
+Added Pin To Net: NetName=LA Pin=U3-15
+Added Net: Name=LA
+Added Pin To Net: NetName=LATX Pin=C16-2
+Added Pin To Net: NetName=LATX Pin=U3-16
+Added Net: Name=LATX
+Added Pin To Net: NetName=LB Pin=C18-1
+Added Pin To Net: NetName=LB Pin=C19-2
+Added Pin To Net: NetName=LB Pin=U3-14
+Added Net: Name=LB
+Added Pin To Net: NetName=LBTX Pin=C20-2
+Added Pin To Net: NetName=LBTX Pin=U3-13
+Added Net: Name=LBTX
+Added Pin To Net: NetName=MISO1 Pin=U0-32
+Added Pin To Net: NetName=MISO1 Pin=U1-6
+Added Pin To Net: NetName=MISO1 Pin=U2-7
+Added Net: Name=MISO1
+Added Pin To Net: NetName=MOSI1 Pin=U0-31
+Added Pin To Net: NetName=MOSI1 Pin=U1-7
+Added Pin To Net: NetName=MOSI1 Pin=U2-6
+Added Net: Name=MOSI1
+Added Pin To Net: NetName=NetA0_1 Pin=A0-1
+Added Pin To Net: NetName=NetA0_1 Pin=R3-1
+Added Net: Name=NetA0_1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=U1-24
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=U1-22
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=U1-23
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=U1-20
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=NetC10_2 Pin=U2-24
+Added Net: Name=NetC10_2
+Added Pin To Net: NetName=NetC11_1 Pin=C11-1
+Added Pin To Net: NetName=NetC11_1 Pin=U2-22
+Added Net: Name=NetC11_1
+Added Pin To Net: NetName=NetC11_2 Pin=C11-2
+Added Pin To Net: NetName=NetC11_2 Pin=U2-23
+Added Net: Name=NetC11_2
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=NetC12_2 Pin=U2-20
+Added Net: Name=NetC12_2
+Added Pin To Net: NetName=NetC16_1 Pin=C16-1
+Added Pin To Net: NetName=NetC16_1 Pin=C17-2
+Added Pin To Net: NetName=NetC16_1 Pin=R3-2
+Added Net: Name=NetC16_1
+Added Pin To Net: NetName=NetC19_1 Pin=C19-1
+Added Pin To Net: NetName=NetC19_1 Pin=C20-1
+Added Pin To Net: NetName=NetC19_1 Pin=R4-2
+Added Net: Name=NetC19_1
+Added Pin To Net: NetName=NetC21_2 Pin=C21-2
+Added Pin To Net: NetName=NetC21_2 Pin=J1-9
+Added Pin To Net: NetName=NetC21_2 Pin=U0-14
+Added Net: Name=NetC21_2
+Added Pin To Net: NetName=NetC24_2 Pin=C24-2
+Added Pin To Net: NetName=NetC24_2 Pin=U0-13
+Added Pin To Net: NetName=NetC24_2 Pin=X1-3
+Added Net: Name=NetC24_2
+Added Pin To Net: NetName=NetC25_1 Pin=C25-1
+Added Pin To Net: NetName=NetC25_1 Pin=U0-12
+Added Pin To Net: NetName=NetC25_1 Pin=X1-1
+Added Net: Name=NetC25_1
+Added Pin To Net: NetName=NetC26_2 Pin=C26-2
+Added Pin To Net: NetName=NetC26_2 Pin=U0-48
+Added Net: Name=NetC26_2
+Added Pin To Net: NetName=NetJ0_1 Pin=J0-1
+Added Pin To Net: NetName=NetJ0_1 Pin=U1-31
+Added Net: Name=NetJ0_1
+Added Pin To Net: NetName=NetJ0_2 Pin=J0-2
+Added Pin To Net: NetName=NetJ0_2 Pin=U1-30
+Added Net: Name=NetJ0_2
+Added Pin To Net: NetName=NetJ0_3 Pin=J0-3
+Added Pin To Net: NetName=NetJ0_3 Pin=U1-27
+Added Net: Name=NetJ0_3
+Added Pin To Net: NetName=NetJ0_4 Pin=J0-4
+Added Pin To Net: NetName=NetJ0_4 Pin=U1-26
+Added Net: Name=NetJ0_4
+Added Pin To Net: NetName=NetJ0_5 Pin=J0-5
+Added Pin To Net: NetName=NetJ0_5 Pin=U1-10
+Added Net: Name=NetJ0_5
+Added Pin To Net: NetName=NetJ0_6 Pin=J0-6
+Added Pin To Net: NetName=NetJ0_6 Pin=U1-11
+Added Net: Name=NetJ0_6
+Added Pin To Net: NetName=NetJ0_7 Pin=J0-7
+Added Pin To Net: NetName=NetJ0_7 Pin=U1-14
+Added Net: Name=NetJ0_7
+Added Pin To Net: NetName=NetJ0_8 Pin=J0-8
+Added Pin To Net: NetName=NetJ0_8 Pin=U1-15
+Added Net: Name=NetJ0_8
+Added Pin To Net: NetName=NetJ0_9 Pin=J0-9
+Added Pin To Net: NetName=NetJ0_9 Pin=U2-31
+Added Net: Name=NetJ0_9
+Added Pin To Net: NetName=NetJ0_10 Pin=J0-10
+Added Pin To Net: NetName=NetJ0_10 Pin=U2-30
+Added Net: Name=NetJ0_10
+Added Pin To Net: NetName=NetJ0_11 Pin=J0-11
+Added Pin To Net: NetName=NetJ0_11 Pin=U2-27
+Added Net: Name=NetJ0_11
+Added Pin To Net: NetName=NetJ0_12 Pin=J0-12
+Added Pin To Net: NetName=NetJ0_12 Pin=U2-26
+Added Net: Name=NetJ0_12
+Added Pin To Net: NetName=NetJ1_3 Pin=J1-3
+Added Pin To Net: NetName=NetJ1_3 Pin=U0-72
+Added Net: Name=NetJ1_3
+Added Pin To Net: NetName=NetJ1_4 Pin=J1-4
+Added Pin To Net: NetName=NetJ1_4 Pin=U0-76
+Added Net: Name=NetJ1_4
+Added Pin To Net: NetName=NetJ1_7 Pin=J1-7
+Added Pin To Net: NetName=NetJ1_7 Pin=U0-24
+Added Net: Name=NetJ1_7
+Added Pin To Net: NetName=NetJ1_8 Pin=J1-8
+Added Pin To Net: NetName=NetJ1_8 Pin=U0-23
+Added Net: Name=NetJ1_8
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1
+Added Pin To Net: NetName=NetJ2_1 Pin=U2-10
+Added Net: Name=NetJ2_1
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-2
+Added Pin To Net: NetName=NetJ2_2 Pin=U2-11
+Added Net: Name=NetJ2_2
+Added Pin To Net: NetName=NetJ3_1 Pin=J3-1
+Added Pin To Net: NetName=NetJ3_1 Pin=U2-14
+Added Net: Name=NetJ3_1
+Added Pin To Net: NetName=NetJ3_2 Pin=J3-2
+Added Pin To Net: NetName=NetJ3_2 Pin=U2-15
+Added Net: Name=NetJ3_2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U1-18
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=U2-18
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetU0_35 Pin=U0-35
+Added Pin To Net: NetName=NetU0_35 Pin=U1-2
+Added Net: Name=NetU0_35
+Added Pin To Net: NetName=NetU0_36 Pin=U0-36
+Added Pin To Net: NetName=NetU0_36 Pin=U1-1
+Added Net: Name=NetU0_36
+Added Pin To Net: NetName=NetU0_51 Pin=U0-51
+Added Pin To Net: NetName=NetU0_51 Pin=U2-1
+Added Net: Name=NetU0_51
+Added Pin To Net: NetName=NetU0_52 Pin=U0-52
+Added Pin To Net: NetName=NetU0_52 Pin=U2-2
+Added Net: Name=NetU0_52
+Added Pin To Net: NetName=NetU0_92 Pin=U0-92
+Added Pin To Net: NetName=NetU0_92 Pin=U3-7
+Added Net: Name=NetU0_92
+Added Pin To Net: NetName=NetU0_93 Pin=U0-93
+Added Pin To Net: NetName=NetU0_93 Pin=U3-6
+Added Net: Name=NetU0_93
+Added Pin To Net: NetName=NetU0_95 Pin=U0-95
+Added Pin To Net: NetName=NetU0_95 Pin=U3-8
+Added Net: Name=NetU0_95
+Added Pin To Net: NetName=NetU4_1 Pin=U4-1
+Added Pin To Net: NetName=NetU4_1 Pin=U7_M9-4
+Added Net: Name=NetU4_1
+Added Pin To Net: NetName=NetU4_2 Pin=U4-2
+Added Pin To Net: NetName=NetU4_2 Pin=U7_M10-4
+Added Net: Name=NetU4_2
+Added Pin To Net: NetName=NetU4_3 Pin=U4-3
+Added Pin To Net: NetName=NetU4_3 Pin=U5-1
+Added Net: Name=NetU4_3
+Added Pin To Net: NetName=NetU4_4 Pin=U4-4
+Added Pin To Net: NetName=NetU4_4 Pin=U7_M11-4
+Added Net: Name=NetU4_4
+Added Pin To Net: NetName=NetU4_5 Pin=U4-5
+Added Pin To Net: NetName=NetU4_5 Pin=U7_M12-4
+Added Net: Name=NetU4_5
+Added Pin To Net: NetName=NetU4_6 Pin=U4-6
+Added Pin To Net: NetName=NetU4_6 Pin=U5-2
+Added Net: Name=NetU4_6
+Added Pin To Net: NetName=NetU4_8 Pin=U4-8
+Added Pin To Net: NetName=NetU4_8 Pin=U5-4
+Added Net: Name=NetU4_8
+Added Pin To Net: NetName=NetU4_9 Pin=U4-9
+Added Pin To Net: NetName=NetU4_9 Pin=U6-3
+Added Net: Name=NetU4_9
+Added Pin To Net: NetName=NetU4_10 Pin=U4-10
+Added Pin To Net: NetName=NetU4_10 Pin=U6-6
+Added Net: Name=NetU4_10
+Added Pin To Net: NetName=NetU4_11 Pin=U4-11
+Added Pin To Net: NetName=NetU4_11 Pin=U5-5
+Added Net: Name=NetU4_11
+Added Pin To Net: NetName=NetU4_12 Pin=U4-12
+Added Pin To Net: NetName=NetU4_12 Pin=U6-8
+Added Net: Name=NetU4_12
+Added Pin To Net: NetName=NetU4_13 Pin=U4-13
+Added Pin To Net: NetName=NetU4_13 Pin=U6-11
+Added Net: Name=NetU4_13
+Added Pin To Net: NetName=NetU5_3 Pin=U5-3
+Added Pin To Net: NetName=NetU5_3 Pin=U5-9
+Added Net: Name=NetU5_3
+Added Pin To Net: NetName=NetU5_6 Pin=U5-6
+Added Pin To Net: NetName=NetU5_6 Pin=U5-10
+Added Net: Name=NetU5_6
+Added Pin To Net: NetName=NetU6_1 Pin=U6-1
+Added Pin To Net: NetName=NetU6_1 Pin=U7_M1-4
+Added Net: Name=NetU6_1
+Added Pin To Net: NetName=NetU6_2 Pin=U6-2
+Added Pin To Net: NetName=NetU6_2 Pin=U7_M2-4
+Added Net: Name=NetU6_2
+Added Pin To Net: NetName=NetU6_4 Pin=U6-4
+Added Pin To Net: NetName=NetU6_4 Pin=U7_M3-4
+Added Net: Name=NetU6_4
+Added Pin To Net: NetName=NetU6_5 Pin=U6-5
+Added Pin To Net: NetName=NetU6_5 Pin=U7_M4-4
+Added Net: Name=NetU6_5
+Added Pin To Net: NetName=NetU6_9 Pin=U6-9
+Added Pin To Net: NetName=NetU6_9 Pin=U7_M5-4
+Added Net: Name=NetU6_9
+Added Pin To Net: NetName=NetU6_10 Pin=U6-10
+Added Pin To Net: NetName=NetU6_10 Pin=U7_M6-4
+Added Net: Name=NetU6_10
+Added Pin To Net: NetName=NetU6_12 Pin=U6-12
+Added Pin To Net: NetName=NetU6_12 Pin=U7_M7-4
+Added Net: Name=NetU6_12
+Added Pin To Net: NetName=NetU6_13 Pin=U6-13
+Added Pin To Net: NetName=NetU6_13 Pin=U7_M8-4
+Added Net: Name=NetU6_13
+Added Pin To Net: NetName=SCLK1 Pin=U0-30
+Added Pin To Net: NetName=SCLK1 Pin=U1-5
+Added Pin To Net: NetName=SCLK1 Pin=U2-5
+Added Net: Name=SCLK1
+Added Pin To Net: NetName=SCL Pin=R9-2
+Added Pin To Net: NetName=SCL Pin=U0-90
+Added Pin To Net: NetName=SCL Pin=U7_M1-8
+Added Pin To Net: NetName=SCL Pin=U7_M2-8
+Added Pin To Net: NetName=SCL Pin=U7_M3-8
+Added Pin To Net: NetName=SCL Pin=U7_M4-8
+Added Pin To Net: NetName=SCL Pin=U7_M5-8
+Added Pin To Net: NetName=SCL Pin=U7_M6-8
+Added Pin To Net: NetName=SCL Pin=U7_M7-8
+Added Pin To Net: NetName=SCL Pin=U7_M8-8
+Added Pin To Net: NetName=SCL Pin=U7_M9-8
+Added Pin To Net: NetName=SCL Pin=U7_M10-8
+Added Pin To Net: NetName=SCL Pin=U7_M11-8
+Added Pin To Net: NetName=SCL Pin=U7_M12-8
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=R10-1
+Added Pin To Net: NetName=SDA Pin=U0-15
+Added Pin To Net: NetName=SDA Pin=U7_M1-7
+Added Pin To Net: NetName=SDA Pin=U7_M2-7
+Added Pin To Net: NetName=SDA Pin=U7_M3-7
+Added Pin To Net: NetName=SDA Pin=U7_M4-7
+Added Pin To Net: NetName=SDA Pin=U7_M5-7
+Added Pin To Net: NetName=SDA Pin=U7_M6-7
+Added Pin To Net: NetName=SDA Pin=U7_M7-7
+Added Pin To Net: NetName=SDA Pin=U7_M8-7
+Added Pin To Net: NetName=SDA Pin=U7_M9-7
+Added Pin To Net: NetName=SDA Pin=U7_M10-7
+Added Pin To Net: NetName=SDA Pin=U7_M11-7
+Added Pin To Net: NetName=SDA Pin=U7_M12-7
+Added Net: Name=SDA
+Added Class: Name=M1
+Add Class: Class already exists: M1
+Added Class: Name=M2
+Added Class: Name=M3
+Added Class: Name=M4
+Added Class: Name=M5
+Added Class: Name=M6
+Added Class: Name=M7
+Added Class: Name=M8
+Added Class: Name=M9
+Added Class: Name=M10
+Added Class: Name=M11
+Added Class: Name=M12
+Added Class: Name=main
+Added Class: Name=hall
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
