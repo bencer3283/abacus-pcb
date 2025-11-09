@@ -253,10 +253,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EFJYMQVX
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for abacus_main\ExportSTEP\main.step
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0

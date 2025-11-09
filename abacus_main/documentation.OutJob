@@ -15,7 +15,7 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=documentation.OutJob
+Name=
 Description=
 TargetOutputMedium=Folder Structure
 VariantName=[No Variations]
@@ -145,7 +145,7 @@ RelativeOutputPath2=C:\Users\Ben\Desktop\abacus_pcb\abacus_main\Project Outputs 
 OpenOutputs2=0
 RelativeOutputPath3=C:\Users\Ben\Desktop\abacus_pcb\abacus_main\Project Outputs for abacus_main\
 OpenOutputs3=1
-AddToProject3=1
+AddToProject3=0
 TimestampFolder3=0
 UseOutputName3=0
 OpenODBOutput3=0
