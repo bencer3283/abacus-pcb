@@ -1,0 +1,6 @@
+Change Component Description : Designator=C44 Old Description= New Description=22pF C0G, 22 pF, 5%, 100 VDC, C0G
+Change Component Description : Designator=C49 Old Description= New Description=22pF C0G, 22 pF, 5%, 100 VDC, C0G
+Change component parameters: Designator = "C44" ("C44"); Footprint = "CAPC17595_87N_KEM"; UniqueID = "\ANGIJKUL\HKYYEUCR" ("\ANGIJKUL\HKYYEUCR")
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C0603C220J1GACTU"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C49" ("C49"); Footprint = "CAPC17595_87N_KEM"; UniqueID = "\ANGIJKUL\GUQVENOJ" ("\ANGIJKUL\GUQVENOJ")
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C0603C220J1GACTU"; VariantName = "[No Variations]"

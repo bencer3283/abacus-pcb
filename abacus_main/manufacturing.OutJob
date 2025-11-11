@@ -45,7 +45,7 @@ OutputEnabled1_OutputMedium3=1
 OutputEnabled1_OutputMedium4=0
 OutputDefault1=0
 Configuration1_Name1=OutputConfigurationParameter1
-Configuration1_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=EFJYMQVX|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|OutputFormat=Different|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16842753~1,16842754~1,16842751~1,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1|PlotBoardProfile=True|PlotBoardProfileFileName= |PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|UncheckPlotDrillDrawingLayerPair0_Backdrill=False|UncheckPlotDrillDrawingLayerPair0_Checked=False|UncheckPlotDrillDrawingLayerPair0_DrillType=Regular|UncheckPlotDrillDrawingLayerPair0_FileName= |UncheckPlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillDrawingLayerPair0_LowLayer=Top Layer|UncheckPlotDrillGuideLayerPair0_Backdrill=False|UncheckPlotDrillGuideLayerPair0_Checked=False|UncheckPlotDrillGuideLayerPair0_DrillType=Regular|UncheckPlotDrillGuideLayerPair0_FileName= |UncheckPlotDrillGuideLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillGuideLayerPair0_LowLayer=Top Layer|DocumentPath=C:\Users\Ben\Desktop\abacus_pcb\abacus_main\main.PcbDoc
+Configuration1_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=EFJYMQVX|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|OutputFormat=Different|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16842753~1,16842754~1,16842751~1,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1,16908293~1|PlotBoardProfile=False|PlotBoardProfileFileName= |PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|UncheckPlotDrillDrawingLayerPair0_Backdrill=False|UncheckPlotDrillDrawingLayerPair0_Checked=False|UncheckPlotDrillDrawingLayerPair0_DrillType=Regular|UncheckPlotDrillDrawingLayerPair0_FileName= |UncheckPlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillDrawingLayerPair0_LowLayer=Top Layer|UncheckPlotDrillGuideLayerPair0_Backdrill=False|UncheckPlotDrillGuideLayerPair0_Checked=False|UncheckPlotDrillGuideLayerPair0_DrillType=Regular|UncheckPlotDrillGuideLayerPair0_FileName= |UncheckPlotDrillGuideLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillGuideLayerPair0_LowLayer=Top Layer|DocumentPath=C:\Users\Ben\Desktop\abacus_pcb\abacus_main\main.PcbDoc
 OutputType2=NC Drill
 OutputName2=NC Drill Files
 OutputCategory2=Fabrication
@@ -83,17 +83,30 @@ Configuration3_Name5=VisibleOrder
 Configuration3_Item5=Designator=120|Footprint=229|Quantity=120|Manufacturer_Part_Number=100
 Configuration3_Name6=VisibleOrder_Flat
 Configuration3_Item6=Designator=120|Footprint=229|Quantity=120|Manufacturer_Part_Number=100
+OutputType4=Pick Place
+OutputName4=Generates pick and place files
+OutputCategory4=Assembly
+OutputDocumentPath4=main.PcbDoc
+OutputVariantName4=
+OutputEnabled4=1
+OutputEnabled4_OutputMedium1=0
+OutputEnabled4_OutputMedium2=0
+OutputEnabled4_OutputMedium3=4
+OutputEnabled4_OutputMedium4=0
+OutputDefault4=0
+Configuration4_Name1=OutputConfigurationParameter1
+Configuration4_Item1=Record=PickPlaceView|Units=Metric|GenerateCSVFormat=True|GenerateTextFormat=False|ShowUnits=False|Separator=.|ExcludeFilterParam=False|IncludeVariations=False|IncludeStandardNoBOM=True|Filter= |FilterActive=False|YFlip=False|DifferentFootprints=False|Column#1=Name:Designator,Fixed:True,Metric:False,Visible:True,Sort:None,Position:0|Column#2=Name:Comment,Fixed:True,Metric:False,Visible:False,Sort:None,Position:1|Column#3=Name:Layer,Fixed:True,Metric:False,Visible:True,Sort:None,Position:2|Column#4=Name:Footprint,Fixed:True,Metric:False,Visible:False,Sort:None,Position:3|Column#5=Name:Footprint Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:4|Column#6=Name:Center-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:5|Column#7=Name:Center-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:6|Column#8=Name:Rotation,Fixed:True,Metric:False,Visible:True,Sort:None,Position:7|Column#9=Name:Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:8|Column#10=Name:ComponentKind,Fixed:True,Metric:False,Visible:False,Sort:None,Position:9|Column#11=Name:Height,Fixed:True,Metric:True,Visible:False,Sort:None,Position:10|Column#12=Name:Ref-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:11|Column#13=Name:Ref-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:12|Column#14=Name:Pad-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:13|Column#15=Name:Pad-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:14|Column#16=Name:Variation,Fixed:True,Metric:False,Visible:False,Sort:None,Position:15|Column#17=Name:Mouser Part Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:45,Type:0|Column#18=Name:ComponentLink2URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:25,Type:0|Column#19=Name:Source,Fixed:False,Metric:False,Visible:False,Sort:None,Position:54,Type:0|Column#20=Name:Copyright,Fixed:False,Metric:False,Visible:False,Sort:None,Position:26,Type:0|Column#21=Name:Diameter,Fixed:False,Metric:False,Visible:False,Sort:None,Position:30,Type:0|Column#22=Name:Manufacturer,Fixed:False,Metric:False,Visible:False,Sort:None,Position:37,Type:0|Column#23=Name:Arrow Price/Stock,Fixed:False,Metric:False,Visible:False,Sort:None,Position:17,Type:0|Column#24=Name:Rated Voltage (DC),Fixed:False,Metric:False,Visible:False,Sort:None,Position:49,Type:0|Column#25=Name:Impedance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:35,Type:0|Column#26=Name:RoHS Compliant,Fixed:False,Metric:False,Visible:False,Sort:None,Position:53,Type:0|Column#27=Name:Max Operating Temperature,Fixed:False,Metric:False,Visible:False,Sort:None,Position:41,Type:0|Column#28=Name:Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:57,Type:0|Column#29=Name:Capacitor Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:19,Type:0|Column#30=Name:Min Operating Temperature,Fixed:False,Metric:False,Visible:False,Sort:None,Position:42,Type:0|Column#31=Name:Ripple Current (AC),Fixed:False,Metric:False,Visible:False,Sort:None,Position:52,Type:0|Column#32=Name:Leakage Current,Fixed:False,Metric:False,Visible:False,Sort:None,Position:36,Type:0|Column#33=Name:Manufacturer_Name,Fixed:False,Metric:False,Visible:False,Sort:None,Position:38,Type:0|Column#34=Name:Category,Fixed:False,Metric:False,Visible:False,Sort:None,Position:21,Type:0|Column#35=Name:ComponentLink2Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:24,Type:0|Column#36=Name:Endurance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:32,Type:0|Column#37=Name:Datasheet,Fixed:False,Metric:False,Visible:False,Sort:None,Position:27,Type:0|Column#38=Name:Manufacturer_Part_Number,Fixed:False,Metric:False,Visible:True,Sort:None,Position:39,Type:0|Column#39=Name:Arrow Part Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:16,Type:0|Column#40=Name:Mounting Technology,Fixed:False,Metric:False,Visible:False,Sort:None,Position:44,Type:0|Column#41=Name:Mount,Fixed:False,Metric:False,Visible:False,Sort:None,Position:43,Type:0|Column#42=Name:Packaging,Fixed:False,Metric:False,Visible:False,Sort:None,Position:47,Type:0|Column#43=Name:Geometry.Height,Fixed:False,Metric:False,Visible:False,Sort:None,Position:33,Type:0|Column#44=Name:System,Fixed:False,Metric:False,Visible:False,Sort:None,Position:55,Type:0|Column#45=Name:Case/Package,Fixed:False,Metric:False,Visible:False,Sort:None,Position:20,Type:0|Column#46=Name:ComponentLink1URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:23,Type:0|Column#47=Name:Design Item ID,Fixed:False,Metric:False,Visible:False,Sort:None,Position:29,Type:0|Column#48=Name:Datasheet Link,Fixed:False,Metric:False,Visible:False,Sort:None,Position:28,Type:0|Column#49=Name:Capacitance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:18,Type:0|Column#50=Name:Value,Fixed:False,Metric:False,Visible:False,Sort:None,Position:58,Type:0|Column#51=Name:Pins,Fixed:False,Metric:False,Visible:False,Sort:None,Position:48,Type:0|Column#52=Name:Match Code,Fixed:False,Metric:False,Visible:False,Sort:None,Position:40,Type:0|Column#53=Name:Mouser Price/Stock,Fixed:False,Metric:False,Visible:False,Sort:None,Position:46,Type:0|Column#54=Name:ComponentLink1Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:22,Type:0|Column#55=Name:Voltage Rating,Fixed:False,Metric:False,Visible:False,Sort:None,Position:59,Type:0|Column#56=Name:RefDes,Fixed:False,Metric:False,Visible:False,Sort:None,Position:50,Type:0|Column#57=Name:Height,Fixed:False,Metric:False,Visible:False,Sort:None,Position:34,Type:0|Column#58=Name:Ripple Current,Fixed:False,Metric:False,Visible:False,Sort:None,Position:51,Type:0|Column#59=Name:Tolerance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:56,Type:0|Column#60=Name:Dissipation Factor,Fixed:False,Metric:False,Visible:False,Sort:None,Position:31,Type:0|DocumentPath=C:\Users\Ben\Desktop\abacus_pcb\abacus_main\main.PcbDoc
 
 [PublishSettings]
 OutputFilePath2=
 ReleaseManaged2=1
-OutputBasePath2=
+OutputBasePath2=Project Outputs for abacus_main
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
 OutputPathOutputerPrefix2=
 OutputPathOutputerValue2=
-OutputFileName2=
+OutputFileName2=manufacturing.PDF
 OutputFileNameMulti2=
 UseOutputNameForMulti2=1
 OutputFileNameSpecial2=
@@ -112,9 +125,9 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=Project Outputs for Free Documents\
+OutputFilePath3=C:\Users\Ben\Desktop\abacus_pcb\abacus_main\Project Outputs for abacus_main\manufacturing\
 ReleaseManaged3=1
-OutputBasePath3=Project Outputs for Free Documents
+OutputBasePath3=Project Outputs for abacus_main
 OutputPathMedia3=manufacturing
 OutputPathMediaValue3=manufacturing
 OutputPathOutputer3=[Output Type]
@@ -127,7 +140,7 @@ OutputFileNameSpecial3=
 OpenOutput3=0
 OutputFilePath4=
 ReleaseManaged4=1
-OutputBasePath4=
+OutputBasePath4=Project Outputs for abacus_main
 OutputPathMedia4=
 OutputPathMediaValue4=
 OutputPathOutputer4=[Output Type]
@@ -166,7 +179,7 @@ WmvQuality4=80
 [GeneratedFilesSettings]
 RelativeOutputPath2=
 OpenOutputs2=1
-RelativeOutputPath3=Project Outputs for Free Documents\
+RelativeOutputPath3=C:\Users\Ben\Desktop\abacus_pcb\abacus_main\Project Outputs for abacus_main\manufacturing\
 OpenOutputs3=0
 AddToProject3=0
 TimestampFolder3=0

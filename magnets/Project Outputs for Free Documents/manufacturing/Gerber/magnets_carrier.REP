@@ -1,0 +1,129 @@
+*************************************************************
+FileName = magnets_carrier.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Overlay
+      File : magnets_carrier.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : magnets_carrier.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : magnets_carrier.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D18
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : magnets_carrier.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : magnets_carrier.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : magnets_carrier.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : magnets_carrier.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : magnets_carrier.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : magnets_carrier.GM
+
+
+Used DCodes :
+    D20
+*************************************************************
+

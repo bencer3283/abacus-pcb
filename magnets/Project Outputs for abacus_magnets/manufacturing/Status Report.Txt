@@ -1,0 +1,20 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [magnets_carrier.PcbDoc]
+   Generated File[magnets_carrier.GTO]
+   Generated File[magnets_carrier.GTP]
+   Generated File[magnets_carrier.GTS]
+   Generated File[magnets_carrier.GTL]
+   Generated File[magnets_carrier.GBL]
+   Generated File[magnets_carrier.GBS]
+   Generated File[magnets_carrier.GBP]
+   Generated File[magnets_carrier.GBO]
+   Generated File[magnets_carrier.GM]
+   Generated File[magnets_carrier.EXTREP]
+   Generated File[magnets_carrier.REP]
+
+
+Files Generated   : 11
+Documents Printed : 0
+
+Finished Output Generation At 12:55:57 PM On 11/11/2025

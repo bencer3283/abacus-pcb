@@ -1,10 +1,10 @@
-Output: Bill of Materials
-Type  : BOM
+Output: Generates pick and place files
+Type  : Pick Place
 From  : Variant [[No Variations]] of PCB Document [main.PcbDoc]
-   Generated File[Bill of Materials-main.csv]
+   Generated File[Pick Place for main.csv]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 2:35:52 AM On 11/11/2025
+Finished Output Generation At 12:33:10 PM On 11/11/2025
