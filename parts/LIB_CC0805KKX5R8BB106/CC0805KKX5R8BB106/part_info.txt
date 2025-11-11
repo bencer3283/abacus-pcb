@@ -1,0 +1,9 @@
+Manufacturer=YAGEO
+PartNumber=CC0805KKX5R8BB106
+PartCategory=Capacitor
+PackageCategory=Capacitor Chip Non-polarised
+PinCount=2
+Version=1.1
+Released=2022-06-03 07:02:56
+Downloaded=2025-11-11 05:30:43
+3D=Y

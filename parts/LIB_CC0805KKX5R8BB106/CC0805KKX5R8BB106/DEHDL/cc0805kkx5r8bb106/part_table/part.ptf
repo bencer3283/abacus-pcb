@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CC0805KKX5R8BB106'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "YAGEO", "CC0805KKX5R8BB106" (!) = "", "CAPC2012X145N", "Capacitor Chip Non-polarised", "603-CC805KKX5R8BB106", "https://www.mouser.co.uk/ProductDetail/YAGEO/CC0805KKX5R8BB106?qs=57cj7OiSijm89pM64t1AGQ%3D%3D", "CC0805KKX5R8BB106", "https://www.arrow.com/en/products/cc0805kkx5r8bb106/yageo?utm_currency=USD&region=nac", "Multilayer Ceramic Capacitors MLCC - SMD/SMT The factory is currently not accepting orders for this product.10 uF,25V", "https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GPHC_X5R_4V-to-50V_27.pdf", "1.45 mm"
+END_PART
+
+END.

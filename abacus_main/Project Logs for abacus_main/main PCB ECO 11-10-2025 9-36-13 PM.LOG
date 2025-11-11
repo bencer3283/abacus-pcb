@@ -1,0 +1,5 @@
+Change Net Name : Old Net Name=NetC21_2 New Net Name=NRST
+Change Net Name : Old Net Name=NetJ1_3 New Net Name=SWDIO
+Change Net Name : Old Net Name=NetJ1_4 New Net Name=SWCLK
+Change Net Name : Old Net Name=NetJ1_7 New Net Name=RX
+Change Net Name : Old Net Name=NetJ1_8 New Net Name=TX
